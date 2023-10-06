@@ -9,7 +9,7 @@ The webpage shows the Massachusett's Bay Transit Authority Bus Route 93 in real 
 3. Open index.html in a browser
 
 ## Roadmap of future improvements
-Additional features to come may include the ability to select more routes, see times of arrival and delay information.
+Additional features to come may include a legend for the map icons, the ability to select more routes, see times of arrival and delay information.
 
 ## Licence information
 See MIT license in the project.
